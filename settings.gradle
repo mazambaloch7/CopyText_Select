@@ -1,0 +1,2 @@
+rootProject.name='CopyText_Select'
+include ':app'
